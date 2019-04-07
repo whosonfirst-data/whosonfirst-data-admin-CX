@@ -1,0 +1,78 @@
+{
+  "id": 1327343691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.67218,-10.43249,105.67218,-10.43249",
+    "geom:latitude":-10.43249,
+    "geom:longitude":105.67218,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Drumsite",
+    "gn:country_code":"CX",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2078132,
+    "gn:latitude":-10.43249,
+    "gn:longitude":105.67218,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Drumsite",
+    "gn:population":0,
+    "gn:timezone":"Indian/Christmas",
+    "iso:country":"CX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        874411115,
+        102191569,
+        404550147,
+        85632495,
+        136253039,
+        85672279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2078132
+    },
+    "wof:country":"CX",
+    "wof:geomhash":"095da717823e2737f1bb2e760f8bc633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632495,
+            "empire_id":136253039,
+            "localadmin_id":404550147,
+            "locality_id":1327343691,
+            "region_id":874411115
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632495,
+            "empire_id":136253039,
+            "localadmin_id":404550147,
+            "locality_id":1327343691,
+            "region_id":85672279
+        }
+    ],
+    "wof:id":1327343691,
+    "wof:lastmodified":1536808464,
+    "wof:name":"Drumsite",
+    "wof:parent_id":404550147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.67218,
+    -10.43249,
+    105.67218,
+    -10.43249
+],
+  "geometry": {"coordinates":[105.67218,-10.43249],"type":"Point"}
+}

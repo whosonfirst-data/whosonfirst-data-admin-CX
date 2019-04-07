@@ -1,0 +1,287 @@
+{
+  "id": 890440049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.67912,-10.42172,105.67912,-10.42172",
+    "geom:latitude":-10.42172,
+    "geom:longitude":105.67912,
+    "gn:country":"CX",
+    "gn:fcode":"PPLC",
+    "gn:pop":500,
+    "iso:country":"CX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Flying Fish Cove"
+    ],
+    "name:ara_x_preferred":[
+        "\u0641\u0644\u0627\u064a\u0646\u063a \u0641\u064a\u0634 \u0643\u0648\u0641"
+    ],
+    "name:arm_x_preferred":[
+        "\u0556\u056c\u0561\u0575\u056b\u0576 \u0556\u056b\u0577 \u0554\u0578\u0578\u0582\u057e"
+    ],
+    "name:ast_x_preferred":[
+        "Flying Fish Cove"
+    ],
+    "name:aze_x_preferred":[
+        "Flayinq Fi\u015f Kouv"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0424\u043b\u0430\u0456\u043d-\u0424\u0456\u0448-\u041a\u043e\u045e\u0432"
+    ],
+    "name:bos_x_preferred":[
+        "Flying Fish Cove"
+    ],
+    "name:bul_x_preferred":[
+        "\u0424\u043b\u0430\u0438\u043d\u0433 \u0424\u0438\u0448 \u041a\u043e\u0443\u0432"
+    ],
+    "name:cat_x_preferred":[
+        "Flying Fish Cove"
+    ],
+    "name:chi_x_preferred":[
+        "\u98de\u9c7c\u6e7e"
+    ],
+    "name:cor_x_preferred":[
+        "Flying Fish Cove"
+    ],
+    "name:cze_x_preferred":[
+        "Flying Fish Cove"
+    ],
+    "name:dan_x_colloquial":[
+        "The Settlement"
+    ],
+    "name:dan_x_preferred":[
+        "The Settlement"
+    ],
+    "name:deu_x_colloquial":[
+        "The Settlement"
+    ],
+    "name:deu_x_preferred":[
+        "The Settlement"
+    ],
+    "name:deu_x_variant":[
+        "Flying Fish Cove"
+    ],
+    "name:dut_x_preferred":[
+        "Flying Fish Cove"
+    ],
+    "name:ell_x_colloquial":[
+        "The Settlement"
+    ],
+    "name:ell_x_preferred":[
+        "The Settlement"
+    ],
+    "name:eng_x_colloquial":[
+        "The Settlement"
+    ],
+    "name:eng_x_preferred":[
+        "The Settlement"
+    ],
+    "name:eng_x_variant":[
+        "Flying Fish Cove"
+    ],
+    "name:fin_x_colloquial":[
+        "The Settlement"
+    ],
+    "name:fin_x_preferred":[
+        "The Settlement"
+    ],
+    "name:fin_x_variant":[
+        "Flying Fish Cove"
+    ],
+    "name:fra_x_colloquial":[
+        "The Settlement"
+    ],
+    "name:fra_x_preferred":[
+        "The Settlement"
+    ],
+    "name:fra_x_variant":[
+        "Flying Fish Cove"
+    ],
+    "name:fre_x_preferred":[
+        "Flying Fish Cove"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e4\u10da\u10d0\u10d8\u10dc\u10d2-\u10e4\u10d8\u10e8\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Flying Fish Cove"
+    ],
+    "name:glg_x_preferred":[
+        "Flying Fish Cove"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a6\u03bb\u03ac\u03b9\u03bd\u03b3\u03ba \u03a6\u03b9\u03c2 \u039a\u03cc\u03bf\u03c5\u03b2"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05d0\u05d9\u05d9\u05e0\u05d2 \u05e4\u05d9\u05e9 \u05e7\u05d5\u05d0\u05d5\u05d1"
+    ],
+    "name:hin_x_preferred":[
+        "\u092b\u094d\u0932\u093e\u0907\u0902\u0917 \u092b\u093f\u0936 \u0915\u094b\u0935"
+    ],
+    "name:hrv_x_preferred":[
+        "Flying Fish Cove"
+    ],
+    "name:ice_x_preferred":[
+        "Flying Fish Cove"
+    ],
+    "name:ind_x_preferred":[
+        "Flying Fish Cove"
+    ],
+    "name:ita_x_colloquial":[
+        "The Settlement"
+    ],
+    "name:ita_x_preferred":[
+        "The Settlement"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30e9\u30a4\u30f3\u30b0\u30fb\u30d5\u30a3\u30c3\u30b7\u30e5\u30fb\u30b3\u30fc\u30d6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10da\u10d0\u10d8\u10dc\u10d2-\u10e4\u10d8\u10e8\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud50c\ub77c\uc789\ud53c\uc2dc\ucf54\ube0c"
+    ],
+    "name:mac_x_preferred":[
+        "\u0424\u043b\u0430\u0438\u043d\u0433 \u0424\u0438\u0448 \u041a\u043e\u0443\u0432"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0424\u043b\u0430\u0438\u043d\u0433 \u0424\u0438\u0448 \u041a\u043e\u0443\u0432"
+    ],
+    "name:nno_x_preferred":[
+        "Flying Fish Cove"
+    ],
+    "name:nob_x_preferred":[
+        "Flying Fish Cove"
+    ],
+    "name:oci_x_preferred":[
+        "Flying Fish Cove"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2b\u0a3c\u0a32\u0a3e\u0a07\u0a70\u0a17 \u0a2b\u0a3c\u0a3f\u0a38\u0a3c \u0a15\u0a4b\u0a35"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0644\u0627\u06cc\u0646\u06af \u0641\u06cc\u0634 \u06a9\u0627\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Flying Fish Cove"
+    ],
+    "name:por_x_colloquial":[
+        "The Settlement"
+    ],
+    "name:por_x_preferred":[
+        "The Settlement"
+    ],
+    "name:rum_x_preferred":[
+        "Flying Fish Cove"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043b\u0430\u0439\u0438\u043d\u0433-\u0424\u0438\u0448-\u041a\u043e\u0443\u0432"
+    ],
+    "name:sco_x_preferred":[
+        "Flying Fish Cove"
+    ],
+    "name:spa_x_preferred":[
+        "Flying Fish Cove"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u043b\u0430\u0458\u0438\u043d\u0433 \u0424\u0438\u0448 \u041a\u043e\u0443\u0432"
+    ],
+    "name:swe_x_colloquial":[
+        "The Settlement"
+    ],
+    "name:swe_x_preferred":[
+        "The Settlement"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbf\u0bb3\u0bc8\u0baf\u0bbf\u0b99\u0bcd \u0baa\u0bbf\u0bb7\u0bcd \u0b95\u0bcb\u0bb5\u0bcd"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1f\u0e25\u0e32\u0e22\u0e2d\u0e34\u0e07\u0e1f\u0e34\u0e0a\u0e42\u0e04\u0e1f"
+    ],
+    "name:tur_x_preferred":[
+        "Flying Fish Cove"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u043b\u0430\u0457\u043d\u0433-\u0424\u0456\u0448-\u041a\u043e\u0443\u0432"
+    ],
+    "name:unk_x_variant":[
+        "The Settlement"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0644\u0627\u0626\u06cc\u0646\u06af \u0641\u0634 \u06a9\u0648\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Flying Fish Cove"
+    ],
+    "name:war_x_preferred":[
+        "Flying Fish Cove"
+    ],
+    "name:wel_x_preferred":[
+        "Flying Fish Cove"
+    ],
+    "name:zho_x_preferred":[
+        "\u98de\u9c7c\u6e7e"
+    ],
+    "qs:name":"Flying Fish Cove",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:geom":"unknown",
+    "src:population":"geonames",
+    "wd:latitude":"-10.421666666",
+    "wd:longitude":"105.678055555",
+    "wd:wordcount":184,
+    "wof:belongsto":[
+        874411115,
+        102191569,
+        404550147,
+        85632495,
+        136253039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2078127,
+        "gp:id":12514237,
+        "qs:id":138237,
+        "wd:id":"Q30980",
+        "wk:page":"Flying Fish Cove"
+    },
+    "wof:country":"CX",
+    "wof:created":1469052260,
+    "wof:geomhash":"186ecb398c92349761dfcaf95b5444ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632495,
+            "empire_id":136253039,
+            "localadmin_id":404550147,
+            "locality_id":890440049,
+            "region_id":874411115
+        }
+    ],
+    "wof:id":890440049,
+    "wof:lastmodified":1535062877,
+    "wof:name":"Flying Fish Cove",
+    "wof:parent_id":404550147,
+    "wof:placetype":"locality",
+    "wof:population":500,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.67912,
+    -10.42172,
+    105.67912,
+    -10.42172
+],
+  "geometry": {"coordinates":[105.67912,-10.42172],"type":"Point"}
+}

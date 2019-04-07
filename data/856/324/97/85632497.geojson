@@ -1,0 +1,527 @@
+{
+  "id": 85632497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-12",
+    "edtf:inception":"uuuu",
+    "geom:area":0.011681,
+    "geom:area_square_m":142030051.53433,
+    "geom:bbox":"105.532058716,-10.571277618,105.712890625,-10.412111282",
+    "geom:latitude":-10.485403,
+    "geom:longitude":105.636363,
+    "gn:population":1500,
+    "gp:id":0,
+    "iso:country":"CX",
+    "iso:parent":"AU",
+    "lbl:latitude":-10.489873,
+    "lbl:longitude":105.64527,
+    "mps:latitude":-10.489873,
+    "mps:longitude":105.64527,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":8.5,
+    "mz:min_zoom":3.0,
+    "name:afr_x_preferred":[
+        "Kerseiland"
+    ],
+    "name:ang_x_preferred":[
+        "Cr\u012bstesm\u00e6sse \u012aeg"
+    ],
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0639\u064a\u062f \u0627\u0644\u0645\u064a\u0644\u0627\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "Milad adas\u0131"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u0420\u0430\u0441\u0442\u0432\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u0420\u0430\u0441\u0442\u0432\u0430"
+    ],
+    "name:bos_x_preferred":[
+        "Bo\u017ei\u0107no ostrvo"
+    ],
+    "name:bpy_x_preferred":[
+        "\u0995\u09cd\u09b0\u09bf\u09b8\u09ae\u09be\u09b8 \u09a6\u09cd\u09ac\u09c0\u09aa\u09ae\u09be\u09b2\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Enez Christmas"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u043e\u0436\u0434\u0435\u0441\u0442\u0432\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Illa Christmas"
+    ],
+    "name:ceb_x_preferred":[
+        "Christmas Island"
+    ],
+    "name:ces_x_preferred":[
+        "V\u00e1no\u010dn\u00ed ostrov"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u0648\u0648\u0631\u06af\u06d5\u06cc \u06a9\u0631\u06cc\u0633\u0645\u0633"
+    ],
+    "name:cor_x_preferred":[
+        "Ynys Nadelik"
+    ],
+    "name:cym_x_preferred":[
+        "Ynys y Nadolig"
+    ],
+    "name:cze_x_preferred":[
+        "V\u00e1no\u010dn\u00ed Ostrov"
+    ],
+    "name:dan_x_colloquial":[
+        "Juleoen"
+    ],
+    "name:dan_x_preferred":[
+        "Christmas Island"
+    ],
+    "name:dan_x_variant":[
+        "Jule\u00f8en"
+    ],
+    "name:deu_x_preferred":[
+        "Weihnachtsinsel"
+    ],
+    "name:deu_x_variant":[
+        "Christmasinsel"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ae\u03c3\u03bf\u03c2 \u03c4\u03c9\u03bd \u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c5\u03b3\u03ad\u03bd\u03bd\u03c9\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Christmas Island"
+    ],
+    "name:eng_x_unknown":[
+        "CX",
+        "CXR"
+    ],
+    "name:eng_x_variant":[
+        "Christmas Islander",
+        "Territory of Christmas Island"
+    ],
+    "name:epo_x_preferred":[
+        "Kristnaskinsulo"
+    ],
+    "name:est_x_preferred":[
+        "J\u00f5ulusaar"
+    ],
+    "name:eus_x_preferred":[
+        "Christmas uhartea"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u06a9\u0631\u06cc\u0633\u0645\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Joulusaari"
+    ],
+    "name:fra_x_colloquial":[
+        "Ile Christmas"
+    ],
+    "name:fra_x_preferred":[
+        "\u00cele Christmas"
+    ],
+    "name:fra_x_variant":[
+        "Christmas, \u00eele",
+        "Territoire de l'\u00cele Christmas"
+    ],
+    "name:fry_x_preferred":[
+        "Krysteil\u00e2n"
+    ],
+    "name:gag_x_preferred":[
+        "Christmas adas\u0131"
+    ],
+    "name:gle_x_preferred":[
+        "Oile\u00e1n na Nollag"
+    ],
+    "name:glg_x_preferred":[
+        "Illa de Nadal"
+    ],
+    "name:glv_x_preferred":[
+        "Ellan ny Nollick"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0acd\u0ab0\u0abf\u0ab8\u0aae\u0ab8 \u0aa6\u0acd\u0ab5\u0ac0\u0aaa"
+    ],
+    "name:hbs_x_preferred":[
+        "Bo\u017ei\u0107ni Otok"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d2 \u05d4\u05de\u05d5\u05dc\u05d3"
+    ],
+    "name:hif_x_preferred":[
+        "Christmas Island"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094d\u0930\u093f\u0938\u092e\u0938 \u0926\u094d\u0935\u0940\u092a"
+    ],
+    "name:hrv_x_preferred":[
+        "Bo\u017ei\u0107ni Otok"
+    ],
+    "name:hun_x_preferred":[
+        "Kar\u00e1csony-Sziget",
+        "Kar\u00e1csony-sziget"
+    ],
+    "name:hye_x_preferred":[
+        "\u053e\u0576\u0576\u0564\u0575\u0561\u0576 \u056f\u0572\u0566\u056b"
+    ],
+    "name:ido_x_preferred":[
+        "Insulo Christmas"
+    ],
+    "name:ilo_x_preferred":[
+        "Isla ti Paskua"
+    ],
+    "name:ind_x_preferred":[
+        "Pulau Natal"
+    ],
+    "name:isl_x_preferred":[
+        "J\u00f3laeyja"
+    ],
+    "name:ita_x_preferred":[
+        "Isola del Natale",
+        "Isola di Natale"
+    ],
+    "name:ita_x_variant":[
+        "Isola Christmas",
+        "Isole Christmas",
+        "Isole del Natale"
+    ],
+    "name:jav_x_preferred":[
+        "Pulo Christmas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ea\u30b9\u30de\u30b9\u5cf6"
+    ],
+    "name:jpn_x_variant":[
+        "\u30af\u30ea\u30b9\u30de\u30b9\u8af8\u5cf6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10dd\u10d1\u10d8\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0440\u0438\u0441\u0442\u043c\u0430\u0441 \u0430\u0440\u0430\u043b\u044b"
+    ],
+    "name:kin_x_preferred":[
+        "Ikirwa cya Noheli"
+    ],
+    "name:kir_x_preferred":[
+        "\u0420\u043e\u0436\u0434\u0435\u0441\u0442\u0432\u043e \u0430\u0440\u0430\u043b\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \uc12c"
+    ],
+    "name:kor_x_variant":[
+        "\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \uc544\uc77c\ub79c\ub4dc"
+    ],
+    "name:lat_x_preferred":[
+        "Insula Christi Natalis"
+    ],
+    "name:lav_x_preferred":[
+        "Ziemsv\u0113tku Sala"
+    ],
+    "name:lij_x_preferred":[
+        "Isoa Christmas"
+    ],
+    "name:lim_x_preferred":[
+        "Kaersjmeseilandj"
+    ],
+    "name:lit_x_preferred":[
+        "Kal\u0117d\u0173 sala"
+    ],
+    "name:ltz_x_preferred":[
+        "Chr\u00ebschtdagsinsel"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d4d\u0d30\u0d3f\u0d38\u0d4d\u0d24\u0d41\u0d2e\u0d38\u0d4d \u0d26\u0d4d\u0d35\u0d40\u0d2a\u0d4d"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u094d\u0930\u093f\u0938\u092e\u0938 \u0926\u094d\u0935\u0940\u092a"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u043e\u0436\u0438\u045c\u0435\u043d \u041e\u0441\u0442\u0440\u043e\u0432"
+    ],
+    "name:mon_x_preferred":[
+        "\u0417\u0443\u043b \u0421\u0430\u0440\u044b\u043d \u0410\u0440\u0430\u043b"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0428\u0430\u0440\u0442\u044f\u043b \u043e\u0448\u043c\u0430\u043e\u0442\u044b"
+    ],
+    "name:msa_x_preferred":[
+        "Pulau Krismas"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u094d\u0930\u093f\u0938\u092e\u0938 \u091f\u093e\u092a\u0941"
+    ],
+    "name:nld_x_preferred":[
+        "Christmaseiland"
+    ],
+    "name:nld_x_variant":[
+        "Christmas Eiland"
+    ],
+    "name:nno_x_preferred":[
+        "Christmas\u00f8ya"
+    ],
+    "name:nor_x_preferred":[
+        "Christmas\u00f8ya"
+    ],
+    "name:oci_x_preferred":[
+        "Christmas"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b16\u0b4d\u0b30\u0b40\u0b37\u0b4d\u0b1f\u0b2e\u0b3e\u0b38\u0b4d \u0b26\u0b4d\u0b35\u0b40\u0b2a"
+    ],
+    "name:pam_x_preferred":[
+        "Pulu ning Christmas"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a15\u0a4d\u0a30\u0a3f\u0a38\u0a2e\u0a38 \u0a1f\u0a3e\u0a2a\u0a42"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u06a9\u0631\u0633\u0645\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Wyspa Bo\u017cego Narodzenia"
+    ],
+    "name:por_x_preferred":[
+        "Ilha Christmas"
+    ],
+    "name:por_x_variant":[
+        "Ilha Natal"
+    ],
+    "name:ron_x_preferred":[
+        "Insula Cr\u0103ciunului"
+    ],
+    "name:rum_x_preferred":[
+        "Insula Cr\u0103ciunului"
+    ],
+    "name:rum_x_variant":[
+        "Insula Christmas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u0432 \u0420\u043e\u0436\u0434\u0435\u0441\u0442\u0432\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "\u00ccsula Christmas"
+    ],
+    "name:sco_x_preferred":[
+        "Christmas Island"
+    ],
+    "name:slk_x_preferred":[
+        "Viano\u010dn\u00fd ostrov"
+    ],
+    "name:slv_x_preferred":[
+        "Bo\u017ei\u010dni otok"
+    ],
+    "name:spa_x_preferred":[
+        "Isla de Navidad"
+    ],
+    "name:spa_x_variant":[
+        "Isla Christmas",
+        "Isla Navidad"
+    ],
+    "name:sqi_x_preferred":[
+        "Christmas Island"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0436\u0438\u045b\u043d\u043e \u041e\u0441\u0442\u0440\u0432\u043e"
+    ],
+    "name:sun_x_preferred":[
+        "Pulo Natal"
+    ],
+    "name:swa_x_preferred":[
+        "Kisiwa cha Krismasi"
+    ],
+    "name:swe_x_colloquial":[
+        "Juloen",
+        "Julon"
+    ],
+    "name:swe_x_preferred":[
+        "Jul\u00f6n"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbf\u0bb1\u0bbf\u0bb8\u0bcd\u0ba4\u0bc1\u0bae\u0b9a\u0bc1 \u0ba4\u0bc0\u0bb5\u0bc1"
+    ],
+    "name:tgl_x_preferred":[
+        "Pulo ng Christmas"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e01\u0e32\u0e30\u0e04\u0e23\u0e34\u0e2a\u0e15\u0e4c\u0e21\u0e32\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Christmas Adas\u0131"
+    ],
+    "name:uig_x_preferred":[
+        "\u0631\u0648\u0698\u062f\u06d0\u0633\u062a\u06cb\u0648 \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0456\u0432 \u0420\u0456\u0437\u0434\u0432\u0430"
+    ],
+    "name:und_x_colloquial":[
+        "Christmasoeya",
+        "Christmasoya",
+        "Juleoeen",
+        "Juleoen"
+    ],
+    "name:und_x_variant":[
+        "Christmas\u00f8ya",
+        "Jule\u00f8en"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u06a9\u0631\u0633\u0645\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Gi\u00e1ng Sinh"
+    ],
+    "name:war_x_preferred":[
+        "Puro han Christmas"
+    ],
+    "name:wol_x_preferred":[
+        "Dunu Christmas"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5723\u8bde\u5c9b"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e5\u10d8\u10e0\u10e1\u10d4\u10e8 \u10d9\u10dd\u10d9\u10d8"
+    ],
+    "name:yor_x_preferred":[
+        "Er\u00e9k\u00f9\u1e63\u00f9 K\u00e9r\u00e9s\u00ecmes\u00ec"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Christmas-t\u00f3"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u8bde\u5c9b"
+    ],
+    "name:zho_x_variant":[
+        "\u8056\u8a95\u5cf6",
+        [
+            "\u5723\u8bde\u5c9b"
+        ]
+    ],
+    "name:zho_yue_x_preferred":[
+        "\u8056\u8a95\u5cf6"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"IOA",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"IOA-2652",
+    "ne:adm1_code":"IOA-2652",
+    "ne:admin":"Indian Ocean Territories",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"-99",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2652",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Christmas Island",
+    "ne:gn_a1_code":"-1",
+    "ne:gn_id":"-99",
+    "ne:gn_level":"0",
+    "ne:gn_name":"",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"CXR",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"-99",
+    "ne:iso_a2":"-1",
+    "ne:labelrank":"3",
+    "ne:latitude":"-10.49130000000",
+    "ne:longitude":"105.64800000000",
+    "ne:mapcolor13":7,
+    "ne:mapcolor9":2,
+    "ne:name":"Christmas Island",
+    "ne:name_alt":"",
+    "ne:name_len":16,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"14",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"2",
+    "ne:sov_a3":"AU1",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":23424869,
+    "ne:woe_label":"",
+    "ne:woe_name":"Christmas Island",
+    "qs:a0":"Indian Ocean Territories",
+    "qs:adm0":"Indian Ocean Territories",
+    "qs:adm0_a3":"IOA",
+    "qs:id":0,
+    "qs:level":"adm0",
+    "qs:scale":200000,
+    "qs:source":"US State Department, with Natural Earth mods",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongs":[
+        102191583,
+        85632793
+    ],
+    "wof:belongsto":[
+        102191583,
+        85632793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"",
+        "gn:id":2078138,
+        "gp:id":23424869,
+        "hasc:id":"-99",
+        "qs:id":571842,
+        "wd:id":"Q31063",
+        "wk:page":"Christmas Island"
+    },
+    "wof:country":"CX",
+    "wof:geomhash":"65e2a5735c90e75321b815c3346b4353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "dependency_id":85632497
+        }
+    ],
+    "wof:id":85632497,
+    "wof:lastmodified":1536616256,
+    "wof:name":"Christmas Island",
+    "wof:parent_id":85632793,
+    "wof:placetype":"dependency",
+    "wof:population":1500,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cx",
+    "wof:shortcode":"99",
+    "wof:superseded_by":[
+        874411115
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.53205871600005,
+    -10.57127761799995,
+    105.71289062500006,
+    -10.41211128199996
+],
+  "geometry": {"coordinates":[[[105.70452880900007,-10.41505527499993],[105.70452880900007,-10.41755580899996],[105.70291900600006,-10.42083358799994],[105.70291900600006,-10.42416667899994],[105.70375061000004,-10.42502784699997],[105.70536041300005,-10.42755508399995],[105.70455932600004,-10.43083286299998],[105.70869445800008,-10.43836116799997],[105.70958709700005,-10.44166660299993],[105.71121978800005,-10.44419479399994],[105.70958709700005,-10.44666671799996],[105.70872497600004,-10.44999980899996],[105.70664215100004,-10.45127773299993],[105.70455932600004,-10.45341682399993],[105.70455932600004,-10.45422267899994],[105.70705413800005,-10.45666694599993],[105.70619201700003,-10.46000003799998],[105.70705413800005,-10.46086120599995],[105.70705413800005,-10.46252822899993],[105.70830535900006,-10.46377754199995],[105.71080780000005,-10.46463870999997],[105.71289062500006,-10.46669483199997],[105.71208190900006,-10.4675273899999],[105.71289062500006,-10.46922206899995],[105.70163726800007,-10.47547244999993],[105.69666290300006,-10.47547244999993],[105.69288635300006,-10.47922229799997],[105.69041442900004,-10.48336124399998],[105.68955230700004,-10.48755550399994],[105.68827819800003,-10.48875045799997],[105.68497467000009,-10.48963928199993],[105.68289184600008,-10.49169444999995],[105.68289184600008,-10.49416637399997],[105.68208313000008,-10.49588870999997],[105.67910766600005,-10.49711131999993],[105.67541503900009,-10.50169467899997],[105.67539215100004,-10.51169490799998],[105.67708587600004,-10.515028],[105.67952728300008,-10.51755523699995],[105.67952728300008,-10.51836109199996],[105.67622375500008,-10.52169418299997],[105.67622375500008,-10.52502822899993],[105.67285919200003,-10.52755546599997],[105.67205810500008,-10.53255557999995],[105.66958618200005,-10.53588867199994],[105.66958618200005,-10.54336070999994],[105.66791534400005,-10.54669475599997],[105.66789245600006,-10.55502796199994],[105.66705322300004,-10.55588912999997],[105.66708374000007,-10.56000041999994],[105.66789245600006,-10.56086158799997],[105.66789245600006,-10.56752777099996],[105.66664123500004,-10.56880569499998],[105.66163635300006,-10.56961154899994],[105.66083526600005,-10.57041645099997],[105.65747070300006,-10.57041645099997],[105.65666961700003,-10.57127761799995],[105.64997100800008,-10.57124996199997],[105.64916992200006,-10.57044410699996],[105.64577484100005,-10.56958293899993],[105.64208221400008,-10.56586074799998],[105.63955688500005,-10.56086158799997],[105.63955688500005,-10.55833339699996],[105.63869476300005,-10.55675029799994],[105.63705444300007,-10.55422210699993],[105.63705444300007,-10.54922199199996],[105.63791656500007,-10.54836082499997],[105.63791656500007,-10.54422187799997],[105.63708496100008,-10.54336070999994],[105.63458252000004,-10.53750038099997],[105.63455200200008,-10.53086090099993],[105.63369751000005,-10.530056],[105.63369751000005,-10.52586078599995],[105.63205719000007,-10.52419471699994],[105.63124847400007,-10.52166652699998],[105.62583160400004,-10.51627731299993],[105.62163543700007,-10.51461124399998],[105.61911010700004,-10.51463890099996],[105.61827850300006,-10.51377773299993],[105.61666870100004,-10.51291656499995],[105.60749816900005,-10.51291656499995],[105.60661315900006,-10.51211070999994],[105.59833526600005,-10.51208305399996],[105.59744262700008,-10.51294422099994],[105.59494781500007,-10.51294422099994],[105.59327697800006,-10.51375007599995],[105.58496856700003,-10.50625038099997],[105.57997131300004,-10.50625038099997],[105.57746887200005,-10.50466632799993],[105.57080841100009,-10.50461101499997],[105.56830596900005,-10.50627803799995],[105.56663513200004,-10.50627803799995],[105.56580352800006,-10.50541686999998],[105.56163787800006,-10.50463867199994],[105.55913543700007,-10.50297260299993],[105.55583190900006,-10.50377750399997],[105.55119323700006,-10.50838851899994],[105.55039215100004,-10.51086139699993],[105.54747009300007,-10.51377773299993],[105.54413604700005,-10.51458358799994],[105.54330444300007,-10.51544475599997],[105.54164123500004,-10.51544475599997],[105.54080200200008,-10.51627731299993],[105.53744506800007,-10.51627731299993],[105.53327941900005,-10.51461124399998],[105.53205871600005,-10.51255512199998],[105.53205871600005,-10.50836086299995],[105.53788757300003,-10.50255584699994],[105.53788757300003,-10.50169467899997],[105.54247283900008,-10.49713897699996],[105.54413604700005,-10.49713897699996],[105.54663848900009,-10.49294471699994],[105.54914093000008,-10.49294471699994],[105.55122375500008,-10.49086093899996],[105.55122375500008,-10.49005508399995],[105.55202484100005,-10.48919486999995],[105.55208587600004,-10.48166656499995],[105.55369567900004,-10.47833347299996],[105.55705261200006,-10.47505569499998],[105.55705261200006,-10.46919441199998],[105.55622100800008,-10.4675273899999],[105.54792022700008,-10.45922183999994],[105.54705810500008,-10.45755577099993],[105.54702758800005,-10.45083332099995],[105.54788970900006,-10.45002746599994],[105.54788970900006,-10.44583320599997],[105.54875183100006,-10.44502735099996],[105.54875183100006,-10.44336128199996],[105.55083465600006,-10.44130516099995],[105.55496978800005,-10.44130516099995],[105.55997467000009,-10.44375038099997],[105.56122589100005,-10.44502735099996],[105.56116485600006,-10.44833373999995],[105.56658172600004,-10.45461082499997],[105.57003021200006,-10.45625019099998],[105.57164001500007,-10.45625019099998],[105.57244110100004,-10.45711135899995],[105.57494354200009,-10.45711135899995],[105.58330535900006,-10.46208286299998],[105.59247589100005,-10.46213912999997],[105.59580230700004,-10.46377754199995],[105.59997558600008,-10.46377754199995],[105.60166931200007,-10.46544456499993],[105.60327911400009,-10.46544456499993],[105.60578155500008,-10.46797180199997],[105.60832977300004,-10.46630573299996],[105.61413574200009,-10.46547222099997],[105.61494445800008,-10.46461105299994],[105.61744689900007,-10.46461105299994],[105.62161254900008,-10.46294403099995],[105.62416839600007,-10.46127796199994],[105.62833404500009,-10.46044444999995],[105.62913513200004,-10.45958328199993],[105.63324737500005,-10.45963859599993],[105.63744354200009,-10.45544433599997],[105.64080810500008,-10.45463848099996],[105.64416503900009,-10.45216655699994],[105.64663696300005,-10.45127773299993],[105.64994812000003,-10.44874954199997],[105.65164184600008,-10.44874954199997],[105.65538787800006,-10.44505596199997],[105.65538787800006,-10.44333362599997],[105.65666961700003,-10.44213867199994],[105.65830230700004,-10.44213867199994],[105.66038513200004,-10.44005584699994],[105.66291809100005,-10.43505573299996],[105.66291809100005,-10.43252754199995],[105.66122436500007,-10.43086147299994],[105.66122436500007,-10.42833328199993],[105.66244506800007,-10.42713928199993],[105.66500091600005,-10.42713928199993],[105.66661071800007,-10.42880535099994],[105.66997528100006,-10.42877769499995],[105.67124939000007,-10.42752742799996],[105.67124939000007,-10.42505550399994],[105.67038726800007,-10.42338848099996],[105.67285919200003,-10.42172241199995],[105.67375183100006,-10.42005538899997],[105.67372131300004,-10.41752815199993],[105.67453002900004,-10.41666698499995],[105.67453002900004,-10.41505527499993],[105.67580413800005,-10.41377735099996],[105.67830658000008,-10.41377735099996],[105.68330383300008,-10.41630554199998],[105.68497467000009,-10.41541671799996],[105.69247436500007,-10.41461086299995],[105.69664001500007,-10.41213893899993],[105.70169067400008,-10.41211128199996],[105.70452880900007,-10.41505527499993]]],"type":"Polygon"}
+}

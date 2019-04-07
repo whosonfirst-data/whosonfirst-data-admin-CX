@@ -1,0 +1,78 @@
+{
+  "id": 1293307347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.6759,-10.41517,105.6759,-10.41517",
+    "geom:latitude":-10.41517,
+    "geom:longitude":105.6759,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Settlement",
+    "gn:country_code":"CX",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2078091,
+    "gn:latitude":-10.41517,
+    "gn:longitude":105.6759,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Settlement",
+    "gn:population":0,
+    "gn:timezone":"Indian/Christmas",
+    "iso:country":"CX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        874411115,
+        102191569,
+        404550147,
+        85632495,
+        136253039,
+        85672279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2078091
+    },
+    "wof:country":"CX",
+    "wof:geomhash":"20b6f2f92909942405b32d5ef99919d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632495,
+            "empire_id":136253039,
+            "localadmin_id":404550147,
+            "locality_id":1293307347,
+            "region_id":874411115
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632495,
+            "empire_id":136253039,
+            "localadmin_id":404550147,
+            "locality_id":1293307347,
+            "region_id":85672279
+        }
+    ],
+    "wof:id":1293307347,
+    "wof:lastmodified":1537044791,
+    "wof:name":"Settlement",
+    "wof:parent_id":404550147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.6759,
+    -10.41517,
+    105.6759,
+    -10.41517
+],
+  "geometry": {"coordinates":[105.6759,-10.41517],"type":"Point"}
+}

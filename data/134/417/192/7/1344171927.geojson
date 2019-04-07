@@ -1,0 +1,79 @@
+{
+  "id": 1344171927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.6795,-10.42019,105.6795,-10.42019",
+    "geom:latitude":-10.42019,
+    "geom:longitude":105.6795,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Silver City",
+    "gn:country_code":"CX",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8529528,
+    "gn:latitude":-10.42019,
+    "gn:longitude":105.6795,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Silver City",
+    "gn:population":0,
+    "gn:timezone":"Indian/Christmas",
+    "iso:country":"CX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        874411115,
+        102191569,
+        404550147,
+        85632495,
+        136253039,
+        85672279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8529528,
+        "wk:page":"Silver_City%2C_Christmas_Island"
+    },
+    "wof:country":"CX",
+    "wof:geomhash":"2bdcf8406796243bd9603dfe7d9feb9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632495,
+            "empire_id":136253039,
+            "localadmin_id":404550147,
+            "locality_id":1344171927,
+            "region_id":874411115
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632495,
+            "empire_id":136253039,
+            "localadmin_id":404550147,
+            "locality_id":1344171927,
+            "region_id":85672279
+        }
+    ],
+    "wof:id":1344171927,
+    "wof:lastmodified":1537504007,
+    "wof:name":"Silver City",
+    "wof:parent_id":404550147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.6795,
+    -10.42019,
+    105.6795,
+    -10.42019
+],
+  "geometry": {"coordinates":[105.6795,-10.42019],"type":"Point"}
+}
