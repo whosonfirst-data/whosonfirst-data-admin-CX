@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.011681,
-    "geom:area_square_m":142030051.534274,
+    "geom:area_square_m":142030051.53433,
     "geom:bbox":"105.532058716,-10.571277618,105.712890625,-10.412111282",
     "geom:latitude":-10.485403,
     "geom:longitude":105.636363,
@@ -82,7 +82,8 @@
         "V\u00e1no\u010dn\u00ed ostrov"
     ],
     "name:ces_x_variant":[
-        "V\u00e1no\u010dn\u00ed ostrovy"
+        "V\u00e1no\u010dn\u00ed ostrovy",
+        "V\u00e1no\u010dn\u00ed Ostrov"
     ],
     "name:ckb_x_preferred":[
         "\u062f\u0648\u0648\u0631\u06af\u06d5\u06cc \u06a9\u0631\u06cc\u0633\u0645\u0633"
@@ -92,9 +93,6 @@
     ],
     "name:cym_x_preferred":[
         "Ynys y Nadolig"
-    ],
-    "name:cze_x_preferred":[
-        "V\u00e1no\u010dn\u00ed Ostrov"
     ],
     "name:dan_x_colloquial":[
         "Juleoen"
@@ -395,9 +393,6 @@
     "name:ron_x_variant":[
         "Insula Christmas"
     ],
-    "name:rum_x_preferred":[
-        "Insula Cr\u0103ciunului"
-    ],
     "name:rum_x_variant":[
         "Insula Christmas"
     ],
@@ -519,8 +514,7 @@
         "\u5723\u8bde\u5c9b"
     ],
     "name:zho_x_variant":[
-        "\u8056\u8a95\u5cf6",
-        "\u5723\u8bde\u5c9b"
+        "\u8056\u8a95\u5cf6"
     ],
     "name:zho_yue_x_preferred":[
         "\u8056\u8a95\u5cf6"
@@ -593,7 +587,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1535062865,
+    "wof:lastmodified":1561769485,
     "wof:name":"Christmas Island",
     "wof:parent_id":85632495,
     "wof:placetype":"region",

@@ -21,7 +21,7 @@
     "mz:is_current":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":18.0,
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "V\u00e1no\u010dn\u00ed Ostrov"
     ],
     "name:dan_x_colloquial":[
@@ -101,7 +101,7 @@
     "name:por_x_variant":[
         "Ilha Natal"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Insula Cr\u0103ciunului"
     ],
     "name:rum_x_variant":[
@@ -198,7 +198,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1537304013,
+    "wof:lastmodified":1561769485,
     "wof:name":"Christmas Island",
     "wof:parent_id":85632495,
     "wof:placetype":"region",

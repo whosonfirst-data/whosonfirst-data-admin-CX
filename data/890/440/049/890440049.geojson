@@ -21,9 +21,6 @@
     "name:ara_x_preferred":[
         "\u0641\u0644\u0627\u064a\u0646\u063a \u0641\u064a\u0634 \u0643\u0648\u0641"
     ],
-    "name:arm_x_preferred":[
-        "\u0556\u056c\u0561\u0575\u056b\u0576 \u0556\u056b\u0577 \u0554\u0578\u0578\u0582\u057e"
-    ],
     "name:ast_x_preferred":[
         "Flying Fish Cove"
     ],
@@ -42,13 +39,13 @@
     "name:cat_x_preferred":[
         "Flying Fish Cove"
     ],
-    "name:chi_x_preferred":[
-        "\u98de\u9c7c\u6e7e"
+    "name:ces_x_preferred":[
+        "Flying Fish Cove"
     ],
     "name:cor_x_preferred":[
         "Flying Fish Cove"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Flying Fish Cove"
     ],
     "name:dan_x_colloquial":[
@@ -66,14 +63,14 @@
     "name:deu_x_variant":[
         "Flying Fish Cove"
     ],
-    "name:dut_x_preferred":[
-        "Flying Fish Cove"
-    ],
     "name:ell_x_colloquial":[
         "The Settlement"
     ],
     "name:ell_x_preferred":[
         "The Settlement"
+    ],
+    "name:ell_x_variant":[
+        "\u03a6\u03bb\u03ac\u03b9\u03bd\u03b3\u03ba \u03a6\u03b9\u03c2 \u039a\u03cc\u03bf\u03c5\u03b2"
     ],
     "name:eng_x_colloquial":[
         "The Settlement"
@@ -83,6 +80,9 @@
     ],
     "name:eng_x_variant":[
         "Flying Fish Cove"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0644\u0627\u06cc\u0646\u06af \u0641\u06cc\u0634 \u06a9\u0627\u0648"
     ],
     "name:fin_x_colloquial":[
         "The Settlement"
@@ -102,20 +102,8 @@
     "name:fra_x_variant":[
         "Flying Fish Cove"
     ],
-    "name:fre_x_preferred":[
-        "Flying Fish Cove"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10da\u10d0\u10d8\u10dc\u10d2-\u10e4\u10d8\u10e8\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Flying Fish Cove"
-    ],
     "name:glg_x_preferred":[
         "Flying Fish Cove"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03bb\u03ac\u03b9\u03bd\u03b3\u03ba \u03a6\u03b9\u03c2 \u039a\u03cc\u03bf\u03c5\u03b2"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05dc\u05d0\u05d9\u05d9\u05e0\u05d2 \u05e4\u05d9\u05e9 \u05e7\u05d5\u05d0\u05d5\u05d1"
@@ -126,10 +114,13 @@
     "name:hrv_x_preferred":[
         "Flying Fish Cove"
     ],
-    "name:ice_x_preferred":[
-        "Flying Fish Cove"
+    "name:hye_x_preferred":[
+        "\u0556\u056c\u0561\u0575\u056b\u0576 \u0556\u056b\u0577 \u0554\u0578\u0578\u0582\u057e"
     ],
     "name:ind_x_preferred":[
+        "Flying Fish Cove"
+    ],
+    "name:isl_x_preferred":[
         "Flying Fish Cove"
     ],
     "name:ita_x_colloquial":[
@@ -147,11 +138,11 @@
     "name:kor_x_preferred":[
         "\ud50c\ub77c\uc789\ud53c\uc2dc\ucf54\ube0c"
     ],
-    "name:mac_x_preferred":[
-        "\u0424\u043b\u0430\u0438\u043d\u0433 \u0424\u0438\u0448 \u041a\u043e\u0443\u0432"
-    ],
     "name:mkd_x_preferred":[
         "\u0424\u043b\u0430\u0438\u043d\u0433 \u0424\u0438\u0448 \u041a\u043e\u0443\u0432"
+    ],
+    "name:nld_x_preferred":[
+        "Flying Fish Cove"
     ],
     "name:nno_x_preferred":[
         "Flying Fish Cove"
@@ -165,9 +156,6 @@
     "name:pan_x_preferred":[
         "\u0a2b\u0a3c\u0a32\u0a3e\u0a07\u0a70\u0a17 \u0a2b\u0a3c\u0a3f\u0a38\u0a3c \u0a15\u0a4b\u0a35"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0644\u0627\u06cc\u0646\u06af \u0641\u06cc\u0634 \u06a9\u0627\u0648"
-    ],
     "name:pol_x_preferred":[
         "Flying Fish Cove"
     ],
@@ -177,7 +165,7 @@
     "name:por_x_preferred":[
         "The Settlement"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Flying Fish Cove"
     ],
     "name:rus_x_preferred":[
@@ -222,9 +210,6 @@
     "name:war_x_preferred":[
         "Flying Fish Cove"
     ],
-    "name:wel_x_preferred":[
-        "Flying Fish Cove"
-    ],
     "name:zho_x_preferred":[
         "\u98de\u9c7c\u6e7e"
     ],
@@ -266,7 +251,7 @@
         }
     ],
     "wof:id":890440049,
-    "wof:lastmodified":1535062877,
+    "wof:lastmodified":1561769486,
     "wof:name":"Flying Fish Cove",
     "wof:parent_id":404550147,
     "wof:placetype":"locality",
