@@ -25,6 +25,18 @@
     "iso:country":"CX",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0421\u0438\u043b\u0432\u0435\u0440 \u0421\u0438\u0442\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Silver City"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043b\u0432\u0435\u0440-\u0421\u0438\u0442\u0438"
+    ],
+    "name:zho_x_preferred":[
+        "\u9280\u57ce"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         874411115,
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1344171927,
-    "wof:lastmodified":1537504007,
+    "wof:lastmodified":1564329790,
     "wof:name":"Silver City",
     "wof:parent_id":404550147,
     "wof:placetype":"locality",
