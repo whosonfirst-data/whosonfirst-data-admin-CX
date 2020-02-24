@@ -488,6 +488,9 @@
         "wk:page":"Christmas Island"
     },
     "wof:country":"CX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"65e2a5735c90e75321b815c3346b4353",
     "wof:hierarchy":[
         {
@@ -497,7 +500,7 @@
         }
     ],
     "wof:id":85632497,
-    "wof:lastmodified":1561769485,
+    "wof:lastmodified":1582379102,
     "wof:name":"Christmas Island",
     "wof:parent_id":85632793,
     "wof:placetype":"dependency",

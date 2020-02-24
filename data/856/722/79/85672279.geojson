@@ -179,6 +179,9 @@
         "qs:id":1085826
     },
     "wof:country":"CX",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"56c91fb8abc99fa56b756448c4f69c71",
     "wof:hierarchy":[
         {
@@ -198,7 +201,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561769485,
+    "wof:lastmodified":1582379102,
     "wof:name":"Christmas Island",
     "wof:parent_id":85632495,
     "wof:placetype":"region",
